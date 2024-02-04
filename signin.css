@@ -1,0 +1,52 @@
+body{
+    font-family:'Roboto',sans-serif;
+    background-color: #fb6f92;
+    
+}
+.signinform{
+    width: 360px;
+    height:420px;
+    margin: auto;
+    background-color: #ffb3c6;
+    border-radius: 10px;
+
+}
+h1{
+    text-align: center;
+    
+    padding-top: 15px;
+}
+h4{
+    text-align: center;
+}
+form{
+    width: 300px;
+    margin-left: 25px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+form input{
+    font-size: larger;
+    width: 100%;
+    padding: 8px;
+    border: 2px solid #ff8fab;
+    border-radius: 7px;
+    margin-top: 5px;
+}
+input[type="submit"]{
+    width:320px;
+    margin-top: 15px;
+    height: 30px;
+    background-color:#ff8fab;
+    border: 1px solid #ff006e;
+    color:white;
+    font-size: 16px;
+    cursor: pointer;
+}
+.last{
+    text-align: center;
+    color: white;
+}
